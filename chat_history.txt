@@ -1,2 +1,11 @@
-You: hello
-Bot: Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?
+You: hello, what is the royal arch story in masonry
+Bot: 
+The Royal Arch story is a central narrative in Masonry that is often referred to as the "Masonic Bible." It is a comprehensive and detailed account of the history and symbolism of Freemasonry, and it forms the basis for many of the rituals and ceremonies practiced by Freemasons.
+
+The story begins with the death of King Solomon, who was said to have been the founder and builder of the Temple in Jerusalem. After his death, his son, King Rehoboam, became the new ruler of Israel, but he proved to be a poor leader and the kingdom began to decline. The story then follows the journey of three travelers - Hiram Abiff, Jubela, and Jubelum - who are said to have been involved in the construction of the Temple and were murdered for their involvement.
+
+The Royal Arch story is told through a series of dramatic and symbolic scenes, including the death and resurrection of Hiram Abiff, the trial of Jubela and Jubelum, and the discovery of the hidden treasure of the Temple. Along the way, the story introduces many of the key symbols and themes of Freemasonry, such as the square and compasses, the letter G, and the concept of the "holy ground."
+
+Throughout the story, the three travelers represent different aspects of the human experience: Hiram Abiff represents the intellectual and spiritual side of man, Jubela represents the emotional and passionate side, and Jubelum represents the social and practical side. The story highlights the importance of balancing these different aspects of human nature in order to achieve true wisdom and enlightenment.
+
+The Royal Arch story is often referred to as the "Masonic Bible" because it provides a comprehensive overview of the history, symbols, and teachings of Freemasonry. It is a central part of Masonic ritual and is used to initiate new members into the craft. The story has been interpreted in many different ways over the centuries, but its core themes of balance, wisdom, and enlightenment remain at the heart of Masonry today.
