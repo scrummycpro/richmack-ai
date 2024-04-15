@@ -1,18 +1,28 @@
+import argparse
 import ollama
 
-def test_ollama_connectivity():
-    try:
-        chunk_size = 5  # Set the chunk size
-        num_results = 20  # Set the total number of results needed
-        offset = 0
-        while offset < num_results:
-            # Fetch results in chunks
-            response = ollama.search("Hello, OLLAma!", num_results=chunk_size, offset=offset)
-            print("OLLAma API connection successful.")
-            print("Response (Chunk {}):".format(offset//chunk_size + 1), response)
-            offset += chunk_size
-    except Exception as e:
-        print("An error occurred:", e)
+def get_bot_response(question):
+    response = ollama.chat(model='mistral', messages=[{'role': 'user', 'content': question}])
+    bot_response = response['message']['content']
+    return bot_response
+
+def chunk_response(response, chunk_size=80):
+    # Chunk the response into smaller parts
+    return [response[i:i+chunk_size] for i in range(0, len(response), chunk_size)]
+
+def main():
+    parser = argparse.ArgumentParser(description="Chat with an AI bot")
+    parser.add_argument("question", type=str, help="Your question to the bot")
+    args = parser.parse_args()
+
+    question = args.question
+
+    bot_response = get_bot_response(question)
+    chunks = chunk_response(bot_response)
+
+    print("Bot's Response:")
+    for chunk in chunks:
+        print(chunk)
 
 if __name__ == "__main__":
-    test_ollama_connectivity()
+    main()
