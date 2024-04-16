@@ -1,0 +1,69 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage[left=0.5in,right=0.5in,top=0.5in,bottom=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+% Define horizontal line command
+\newcommand{\hlinebreak}{\vspace{5pt}\hrule\vspace{5pt}}
+
+% Set section formatting
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}[{\titlerule[0.8pt]}]
+
+% No page numbers
+\pagenumbering{gobble}
+
+\begin{document}
+
+% Header
+\noindent
+\textbf{\huge Your Name} \\
+\smallskip
+\textit{DevOps Engineer | AWS Solutions Architect} \\
+\smallskip
+City, State | email@example.com | (123) 456-7890 | LinkedIn: linkedin.com/in/yourprofile
+
+\hlinebreak
+
+% Experience
+\section*{Experience}
+\textbf{Senior DevOps Engineer} \hfill Dates \\
+\textit{Company Name, Location}
+\begin{itemize}[label=-]
+    \item Implemented CI/CD pipelines using Jenkins, speeding up deployment process by 40%.
+    \item Managed infrastructure as code using Terraform, reducing provisioning time by 50%.
+    \item Led migration of on-premises infrastructure to AWS, optimizing costs by 30%.
+    \item Collaborated with development teams to containerize applications using Docker and Kubernetes.
+\end{itemize}
+
+\textbf{DevOps Engineer} \hfill Dates \\
+\textit{Company Name, Location}
+\begin{itemize}[label=-]
+    \item Automated deployment processes using Ansible, reducing manual intervention by 70%.
+    \item Built monitoring and alerting systems with Prometheus and Grafana, improving system reliability.
+    \item Managed AWS resources including EC2, S3, RDS, and Lambda functions.
+    \item Contributed to the design and implementation of microservices architecture using Go and Rust.
+\end{itemize}
+
+% Skills
+\section*{Skills}
+\textbf{Programming Languages:} Ruby, Go, Rust \\
+\textbf{Cloud Platforms:} AWS (Certified Solutions Architect - Associate) \\
+\textbf{DevOps Tools:} Jenkins, Terraform, Ansible, Docker, Kubernetes \\
+\textbf{Monitoring Tools:} Prometheus, Grafana \\
+\textbf{Agile Methodologies:} Scrum, Kanban \\
+\textbf{Version Control:} Git, GitHub, Bitbucket
+
+% Certifications
+\section*{Certifications}
+\textbf{AWS Certified Solutions Architect - Associate} \hfill Certification Date \\
+\textbf{Docker Certified Associate} \hfill Certification Date \\
+\textbf{Terraform Associate} \hfill Certification Date
+
+% Links
+\section*{Links}
+\textbf{GitHub:} github.com/yourusername \\
+\textbf{Portfolio:} yourportfolio.com \\
+\textbf{Blog:} yourblog.com
+
+\end{document}
