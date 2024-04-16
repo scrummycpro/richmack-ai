@@ -1,0 +1,1160 @@
+1|google.com|test_position|notes about job description|Indeed|1|2024-04-14 18:20:20
+2|https://www.skillz.com/careers/list/?gh_jid=5208908|Lead / Principal Cloud Engineer|What you'll do:
+
+    Designing, implementing, and delivering core platform infrastructure and services to production
+    Understanding the needs of Skillz engineering teams and develop tooling to increase development efficiency
+    Proactively maintain the availability of Skillz’s cloud infrastructure
+    Work closely with engineering teams to constantly improve the stability and observability of all services in the Skillz ecosystem
+    Enable and manage seamless upgrades of infrastructure and services through automation
+    Leverage container platforms such as Kubernetes for large-scale deployment of microservices
+    Design, deploy, and manage Skillz’s infrastructure in public clouds (AWS or GCP)
+    Identify, gather, analyze and automate responses to key performance metrics, logs, and alerts
+    Ensure infrastructure security compliance
+    Disaster recovery planning and regional failover testing
+    Automatic scaling of infrastructure and services
+    Conduct post-mortems to analyze and prevent repeat failures
+    Develop and optimize continuous integration and deployment processes (CI/CD)
+    Conduct periodic on-call duties as needed on a regular scheme basis
+
+Qualifications
+
+    BS in Computer Science or related technical field or equivalent practical experience.
+    Fluent in one or more of Go, Python, Java, or Ruby
+    Deep knowledge of containerization and cloud services frameworks in both Kubernetes and AWS
+    6+ years of experience as a DevOps engineer, Site Reliability Engineer, Cloud Infrastructure or backend engineering
+    Interest in designing, analyzing, and troubleshooting large-scale distributed systems
+    Systematic problem-solving approach, coupled with strong communication skills and a sense of ownership and drive.
+    Ability to debug and optimize code and automate routine tasks.
+    Excellent skills in process, documentation, and change management.
+    Experience with logging, monitoring, and alerting tools such as New Relic, ELK, Datadog, and PagerDuty|LinkedIn|0|2024-04-16 12:39:44
+3|https://zappos.wd1.myworkdayjobs.com/Zappos/job/Las-Vegas-Office/Software-Development-Engineer-II_JR587?source=LinkedIn|Software Development Engineer II|SUMMARY
+
+The Software Development Engineer II will participate in all phases of software development to build services to support the goals of the organization. This position will be responsible for driving service and product performance opportunities, from idea generation to scoping to strategy building, and ultimately automation for self-monitoring, self diagnosing, and self-healing solutions. Additionally, they will creatively deal with ambiguity and juggle cross-organization complexity. 
+
+WHAT YOU WILL BE DOING
+
+    Effectively develop and maintain Java based applications utilizing AWS based services (ECS/SQS/S3/DynamoDB).
+
+    Partner with other engineers, product managers and UX designers to ensure optimal customer experiences.
+
+    Mentor junior developers by providing meaningful feedback and raise the bar on coding standards.
+
+    Help drive the architecture and technology choices that enable an elegant and practical code.
+
+    Work backwards from customer problems, figure out solutions, and implement them for speed and scalability.
+
+WHAT YOU BRING TO THE TABLE
+
+    At least five (5) years of professional experience in software development.
+
+    Solid computer science fundamentals (theory, data structures, algorithms).
+
+    Deep understanding of scalable computing systems, software architecture, data structures, and algorithms.
+
+    Strong skills in one modern programming language such as C#, Java, or Ruby.
+
+    Experience with relational and/or non-relational databases.
+
+    Proven track record of successfully design, build, deliver and troubleshooting complex service-oriented systems.
+
+    Strong analytical skills, with excellent problem-solving abilities.
+
+    Strong verbal and written communication skills. Ability to clearly and concisely communicate with technical and non-technical stakeholders across all levels of the organization.
+
+    Passion for technical leadership and mentoring.
+
+WHAT REALLY WOWS US
+
+    College degree in a related field of study.
+
+    A deep understanding of Java 8+ and experience with the Spring Framework.
+
+    Experience with AWS technologies including DynamoDB, ECS, SQS, SNS, S3 or other Cloud based providers (GCP, Azure).
+
+    Experience with CI/CD automation.
+
+    Frontend development skills.
+
+    Experience with NextJs/React/Svelte.
+
+    You have strong opinions, a desire to teach others, and a strong inclination to learn.
+
+This role is open to candidates physically located in the following metropolitan statistical areas: Austin, TX; Las Vegas, NV; New York, NY; and Seattle, WA. Candidates who are not physically located in one of these areas may not be considered for this role.
+
+The base pay range for this position is $153,000-174,000 per year ; however, 
+
+base pay offered may vary depending on job-related knowledge, skills, and experience. In addition, a full range of medical and other benefits is offered.
+The Fine Print
+
+
+The Zappos Family of Companies is committed to Equal Employment Opportunity regardless of race, color, national origin, gender, sexual orientation, age, religion, veteran status, disability, history of disability or perceived disability. If you need assistance or an accommodation due to a disability, you may email us at recruiting@zappos.com or call us at 1.702.943.7777.
+
+To all recruitment agencies: We do not accept unsolicited agency resumes and are not responsible for any fees related to unsolicited resumes.|LinkedIn|0|2024-04-16 12:42:35
+4|https://www.aha.io/company/careers/current-openings/lead-ruby-on-rails-engineer-remote|Lead Ruby on Rails Engineer|Our technology
+
+Our web application is a single-instance, multi-tenant Ruby on Rails monolith supported by Postgres (database), Redis (background jobs), and memcached (Rails caching). We also run a Node.js webserver to support collaborative editing and real-time updates. Our application is hosted on Amazon Web Services and architected with ECS for reproducibility and scalability.
+
+We utilize a growing amount of React on the front end to build rich client-side experiences, including our fully collaborative text editor and our slide presentation editor. We balance the strengths of both technologies — Rails for its conventions and simplicity and React for more powerful interactive functionality.
+
+We embrace new technologies that help us deliver a lovable product, but we also remain cognizant of the maintenance overhead that a new library or platform brings. We solve the problems in front of us rather than prematurely optimizing to address issues that may never materialize.
+
+We do most of our planning and collaboration in Aha! Roadmaps and built Aha! Develop so that software engineers and their teams could take advantage of those same rich features. We use Slack and Zoom for video calls. (Email? Rarely.)
+Your experience
+
+Most of our features involve writing significant Ruby on Rails code so you should have experience working in a Rails codebase. We also write a lot of React but we are happy to help you learn that part on the job.
+
+We believe that being a kind person who elevates the rest of the team is just as valuable as writing great code. You have strong problem-solving skills and experience working on important functionality for a cloud-based product. You are humble, eager to learn, and always willing to help others. You want teammates who enjoy solving problems regardless of the technologies and techniques involved. You have worked at meaningful scale before and want to do so again. You also have the below experience and skills:
+
+    Four+ years of experience working in Ruby on Rails
+
+    Builder of scalable, efficient, and maintainable architectures
+
+    Experience developing features at a high-growth SaaS company
+
+    Active collaborator with product teams
+
+Your work at Aha!
+
+We work on a broad range of features across the full stack. As Lead Ruby on Rails Engineer, your work will include:
+
+    Implementing new features for our users, touching each layer of the MVC as needed
+
+    Building deeply interactive reporting interfaces using React
+
+    Working proactively with product and UX to refine and iterate on specifications as the feature takes shape
+
+    Investigating slow performance and optimizing queries to ensure Aha! is snappy and satisfying to use
+
+    Interfacing directly with users to quickly squash bugs as part of our regular customer support rotation
+
+    Documenting components in our style guide to help drive consistency
+
+If the Lead Ruby on Rails Engineer role sounds appealing, we would love to hear from you. (A real human reviews every application.)
+Grow with us
+
+Everyone deserves to reach their fullest potential. We know that when we do work that matters with people we care about in a high-growth environment, we feel engaged and alive. It is why we joined Aha! and how we achieve our very best.
+
+We offer all the benefits you would expect and more, including profit sharing. The specific benefits listed below are reflective of what we offer U.S.-based hires. We also do our best to extend identical benefits to international teammates.
+
+    The base salary range for this role in the US is between $140,000 and $200,000.
+
+    Cash-based compensation also includes profit sharing, and we contribute a percentage of your total pay each month toward your retirement.
+
+    Medical, dental, and vision plans (for many teammates, we cover 100% of the premiums)
+
+    Up to 200 hours of paid time off a year to spend however you want
+
+    30 to 90 days of paid parental leave and five to 10 days of paid care and bereavement leave
+
+    Up to $1,000 annually for third-party education, along with paid time off to immerse yourself in learning
+
+    Volunteer opportunities throughout the year
+
+Base salary and total compensation are dependent upon many factors, including skills, experience, and relevant past roles.|LinkedIn|0|2024-04-16 12:54:16
+5|https://boards.greenhouse.io/huntress/jobs/5818636003|Senior Software Engineer, Ruby on Rails|What We Do: 
+
+Founded in 2015 as a fully remote company by former NSA cyber operators, Huntress was built on a simple premise: to force hackers to earn every inch of their access. 
+
+Today’s cyber-attacks aren’t limited to large organizations with the security tools that can ward off threats. Hackers don't discriminate and will find a way to penetrate any vulnerability in any size business, which is why Huntress focuses on protecting those small to midsize businesses that make up the backbone of our economy.
+
+Huntress stops hidden threats that sneak past preventive security tools by utilizing our award-winning security platform and expert human threat hunters through dynamic products including Managed EDR, MDR for Microsoft 365, and Managed Security Awareness Training.
+
+Join the hunt and help us stop hackers in their tracks!
+
+What You’ll Do: 
+
+The Huntress team is looking for an innovative and highly motivated Senior Software Engineer with excellent problem solving and communication skills.  As a Senior Software Engineer at Huntress, you will be responsible for working in a feature delivery team to design, develop, and release software features for the Huntress Security Platform that provides for automated detection and human-powered threat hunting.
+
+The Huntress Security Platform consists of the Huntress AWS Portal and over 2.6 million endpoint agents, which send telemetry used for threat hunting and remediation to our web portal.  You will focus on building new and exciting features from the product roadmap, while helping our product scale to handle management of agents and their data as our customer base grows.  You’ll be working with a smart and diverse team of problem solvers who exhibit high energy, deep technical skills, and a drive to get things done.    
+
+Responsibilities: 
+
+    Responsible for technical development of features for the Portal and delivering quality solutions
+    Develop high-quality software, software designs and architecture
+    Ensure code quality and test code through deliverables by testing own code and reviewing peers
+    Take ownership over timely completion of work, problem-solving and robust code
+    Actively engage and contribute to the team and new innovations
+    Ability to mentor or coach junior engineers
+
+What You Bring To The Team:  
+
+    7+ years of experience developing complex software products
+    5+ years of programming in Ruby on Rails
+    Experience in Agile or Scrum environment
+    Experience with JavaScript and CSS
+    Experience working with external APIs
+    Experience reviewing code, problem solving and technical troubleshooting
+    BS in Computer Science or Engineering field or equivalent experience
+    Experience with AWS Cloud Environments preferred
+    Experience working on Linux based infrastructure
+
+What We Offer: 
+
+    100% remote work environment - since our founding in 2015
+    Generous paid time off policy including vacation, sick time, and paid holidays
+    12 weeks paid parental leave
+    Highly competitive and comprehensive medical, dental, and vision benefits plans 
+    401(k) with 5% contribution regardless of employee contribution
+    Life and Disability insurance plans
+    Stock options for all full-time employees 
+    One-time $500 reimbursement to build/upgrade home office
+    Annual allowance for education and professional development assistance 
+    $75 USD/month digital reimbursement
+    Access to both Udemy and BetterUp platforms for coaching, personal, and professional growth|LinkedIn|1|2024-04-16 12:58:18
+6|https://app.usebraintrust.com/jobs/12257/?utm_channel=jobboard&gh_src=06bf3def4us&utm_source=linkedin|Sr. Back End Engineer(Ruby on Rails)|**Looking for Talent in Poland or USA**
+
+**Must be able to over lap some hours with USA time zones**
+
+ 
+
+About the Job 
+
+ 
+
+As a senior software engineer on TaskRabbit’s engineering team, you’ll get to build features and improvements for our platform. You’ll be helping to mentor more junior engineers, proposing creative solutions, de-tangling the complex into the simple, and collaborating closely with teammates across product and engineering. Our engineering team uses Ruby on Rails on the backend and we’re looking for people who are comfortable building APIs and architect the solution from the group up. Join us in creating a better everyday life for everyday people. 
+
+ 
+
+Responsibilities: 
+
+ 
+
+    Build out software features to support clients, taskers, and internal users
+    Architect and craft solutions to complex problems 
+    Collaborate with design and product management to conceptualize new product features from the ground up 
+    Work alongside more junior software engineers to help them think through designs, code implementation, and how to break down their goals into actionable steps 
+    Participate in code reviews, listening to feedback and commenting on other approaches 
+    Maintain and expand upon existing code and functionality 
+
+ 
+
+Qualifications: 
+
+    5+ years of experience developing Ruby on Rails applications 
+    You have built API-driven applications or endpoints 
+    You're excited about continuous integration and frequent, daily releases
+    Understand how to organize code across the stack, what belongs in the front end, what the back 
+    Know how to break problems down into smaller iterable steps achievable quickly
+    Be comfortable with caching and understanding full lifecycle behavior of data flowing through the system 
+    You are comfortable with an Agile work environment where you’ll be collaborating regularly with Product, Design, Data, QA, and other developers regularly
+
+ 
+
+Nice to have:
+
+    Experience with segment.io tool and payment domain is plus for this role.|LinkedIn|0|2024-04-16 12:59:32
+7|https://app.dover.io/apply/aerodome/0af4b424-41fe-4908-b529-f3d80767e2c6?rs=42706078|Senior Backend Engineer (Ruby on Rails) at Aerodome|Senior Backend Engineer (Ruby on Rails) at Aerodome
+Remote (United States)
+View all open roles
+
+Aerodome is hiring a Senior Backend Engineer with Ruby on Rails experience to join our small engineering team.
+Why Aerodome?
+
+Aerodome is bringing the future of air support to public safety agencies around the world. Using a fully integrated, fully remote, automated, and AI-driven software operating system, we equip agencies with highly advanced, 24/7 drone-as-first-response capabilities. This means police and fire departments can automatically fly a drone to an emergency incident located anywhere in their city in less than 3 minutes, every time. State and Federal agencies can use Aerodome stations to immediately detect wildfires as soon as they start, helping prevent them from escalating into the devastating tragedies we've seen over the years.
+
+The future of public safety air support is faster, safer, greener, more efficient, more effective, and more affordable. We make that future a reality, fostering safer communities worldwide.
+
+You’ll be working on a team led by previously-exited founders in the space, alongside other highly experienced senior team members.
+
+Come see why Andreessen Horowitz, 2048, Anti-fund, and Everywhere Ventures have joined us in our quest to save lives, end wildfires, mitigate dangerous police pursuits and reduce crime around the world.
+Our Backend Tech Stack Includes
+
+    Ruby on Rails
+
+    PostgreSQL
+
+    Sequel ORM
+
+    Sidekiq
+
+    OpenAPI 
+
+You
+
+    Design, build, and maintain efficient, reusable, and reliable Ruby on Rails code.
+
+    Ensure the performance, quality, and responsiveness of applications.
+
+    Identify bottlenecks and bugs, and devise solutions to these problems.
+
+    Help maintain code quality, organization, and automatization.
+
+    Collaborate with different teams to define, design, and ship new features.
+
+    Integrate data storage solutions using PostgreSQL, the Sequel ORM, and Redis.
+
+    Develop APIs and service architectures using OpenAPI specifications.
+
+Your Experience
+
+    8+ years of experience as a backend engineer.
+
+    Strong experience with Ruby on Rails.
+
+    Proficient in using SQL database systems, particularly PostgreSQL, with and without an ORM.
+
+    Experience with the Sequel ORM for database interactions.
+
+    Familiarity with OpenAPI for designing and implementing API solutions.
+
+    Ability to work in a fast-paced, collaborative startup environment.
+
+Stuff We Use
+
+AWS, Axum, Docker, Figma, GitHub, GitHub Actions (for CI), Helm, Hotwire, Kubernetes, PostGIS, Postgres, PowerShell, React, Ruby, Ruby on Rails, Rust, Sentry, Sequel, Storybook, TailwindCSS, Tokio, Turbo, WebRTC|LinkedIn|1|2024-04-16 13:00:31
+8|https://belcanjobs.smartsearchonline.com/careersv2/jobdetails.asp?fromsearch=yes&apply=yes&jo_num=347616&cityZip=%2C&sourcename=*LinkedIn-Applied|DevSecOps Engineer (REMOTE)  REMOTE, RE  Posted: 4/15/2024|Details:
+
+A DevSecOps Engineer job working REMOTELY from anywhere in the U.S. is currently available at Belcan. The DevOps Engineer plays a crucial role in enhancing the development and deployment lifecycle of software applications by implementing automation, continuous integration, and continuous delivery (CI/CD) pipelines. This role involves collaborating with development, operations, and quality assurance teams to streamline processes, optimize infrastructure, and ensure the reliability, scalability, and security of applications.
+ 
+DevSecOps Engineer Job Duties:
+The duties of a DevOps Engineer can vary depending on the project, its size, and specific requirements. However, common tasks and responsibilities include:
+ 
+· Infrastructure Automation: Design, implement, and maintain automated infrastructure provisioning and configuration management solutions using tools like Terraform, Ansible, Puppet, or Chef.
+ 
+· Continuous Integration/Continuous Deployment (CI/CD): Develop, maintain, and enhance CI/CD pipelines to automate the build, test, and deployment processes for applications and services.
+ 
+· Containerization and Orchestration: Implement containerization using Docker and orchestration using Kubernetes or similar platforms to manage containerized applications efficiently.
+ 
+· Infrastructure as Code (IaC): Write and maintain infrastructure code using declarative languages such as YAML or JSON to define and provision cloud resources.
+ 
+· Security: Implement security best practices throughout the infrastructure and application lifecycle, including secure configurations, access controls, and vulnerability management.
+ 
+· Cloud Computing: Deploy and manage applications on public cloud platforms like AWS, Azure, or Google Cloud Platform, leveraging their services and features.
+
+ 
+Required Qualifications:
+· Bachelor"s degree in computer science, Engineering, or related field (or equivalent work experience).
+ 
+· Proven experience in DevOps roles, with a strong understanding of software development, deployment, and operations processes.
+ 
+· Crucial to have familiarity with cloud platforms such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP).
+ 
+· Proficiency in Continuous Integration/Continuous Delivery (Deployment), utilizing Jenkins, Azure Devops, or Gitlab CI/CD.
+ 
+· Containerization Technologies. Proficiency in Docker, Kubernetes
+Scripting skills - highly proficient in scripting with Python, Bash, PowerShell, or Ruby
+ 
+· Troubleshooting skills - Ability to analyze and resolve issues with CI/CD pipeline.
+ 
+· Strong analytical and problem-solving skills, with a focus on automation and efficiency.
+ 
+· Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.
+ 
+· Ability to travel periodically.
+ 
+· US Citizenship only
+ 
+Preferred Qualifications & Skills:
+· Expertise in Infrastructure as Code utilizing Azure Resource Manager or Terraform.
+ 
+· Version Control/Source code management - Highly proficient in Git\Azure Repos
+ 
+We provide a competitive pay and benefits package. This position is offering a salary range of $157,000 to $167,000. Belcan considers several factors when extending an offer, including but not limited to education, experience, geographic location, and discipline. Benefits offered may include health care, dental, vision, life insurance; 401(k); education assistance; paid time off including PTO, holidays, and any other paid leave required by law.
+ 
+As an employee with Belcan, you will be part of one of the largest engineering firms in the United States. We maintain a small company atmosphere as well as open communication at all levels of our organization, allowing for much more dynamic decision-making processes. We offer flexible schedules as well as an excellent mentoring system to ensure that you have all the knowledge and tools you need to meet a diverse range of engineering challenges. You will also have opportunities to advance to positions of greater responsibility, including management roles. Your hard work and professional dedication will be rewarded with a competitive compensation package. Build a challenging and rewarding career with an industry leader!
+ 
+www.belcan.com
+EOE/F/M/D/V|LinkedIn|1|2024-04-16 13:01:25
+9|https://boards.greenhouse.io/springhealth66/jobs/4408873005?gh_src=a8d055a25us|DevOps Engineer I|Our mission: to eliminate every barrier to mental health. 
+
+Spring Health is a comprehensive mental health solution for employers and health plans. Unlike any other solution, we use clinically validated technology called Precision Mental Healthcare to pinpoint and deliver exactly what will work for each person  — whether that’s meditation, coaching, therapy, medication, and beyond. 
+
+Today, Spring Health equips over 800 companies, from start-ups to multinational Fortune 500 corporations, as a leading and preferred mental health service. Companies like J.P. Morgan Chase & Co., Microsoft, J.B. Hunt, Bumble, and Instacart use the Spring Health platform to provide mental health services to thousands of their team members globally. We have raised over $370 million from prominent investors including Kinnevik, Tiger Global, Northzone, RRE Ventures, and many more. Thanks to their partnership, our current valuation has reached $2.5 billion.
+
+Helping develop practices and processes that help Spring Health speed up and automate aspects of developing, testing, releasing and updating software will enable the engineering team to grow and support primary business functions. This role will be a leader in the development operations pod.
+
+What you’ll be doing:
+
+    Develop CI/CD pipelines across many architectures in order to assist releasing and ensuring code quality.
+    Working closely with developers to improve process workflows
+    Work closely with SecOps to maintain guardrails that limit risks and ensure secure solutions
+    Ensure our current environments are set up in accordance with best practices
+    Create and improve automation for building new environments 
+    Work with the compliance team to implement best practices for storing PHI in a safe and consistent manner
+
+What success looks like in this role: 
+
+    Contribute to team oncall 
+    Contribute to team design documents
+    Deliver on projects for infrastructure automation 
+    Deliver projects to improve developer experience and increase developer productivity 
+
+
+What we expect from you:
+
+    Have worked on previous devops teams or worked in the capacity of devops engineer
+    Have worked with infrastructure as code technologies (terraform, cloudformation)
+    Have some major cloud provider experience (AWS, GCP, or Azure)
+    Experience in scripting languages (bash, python, or ruby preferred) 
+    You've produced technical documentation about upcoming changes, rationale, and process for migration
+    Work on tooling around CI/CD infrastructure 
+    Focus on operational consistency and best practices when deploying new infrastructure or re-architecting existing services
+
+The target salary range for this position is $100,000- $123,600, and is part of a competitive total rewards package including stock options, benefits, and incentive pay for eligible roles. Individual pay may vary from the target range and is determined by a number of factors including experience, location, internal pay equity, and other relevant business considerations. We review all employee pay and compensation programs annually at minimum to ensure competitive and fair pay.
+
+Don’t meet every requirement? Studies have shown that women, communities of color and historically underrepresented talent are less likely to apply to jobs unless they meet every single qualification. At Spring Health we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we strongly encourage you to apply. You may be just the right candidate for this or other roles!
+
+Ready to do the most impactful work of your life? Learn more about our values, how we work, and how hypergrowth meets impact at Spring Health: Our Values
+
+Hypergrowth meets impact
+
+What to expect working here:
+
+    You will be held accountable to an exceptionally high bar and impact
+    This may be the fastest work environment you will ever experience in terms of growth, decision-making, and time to impact
+    You will be empowered to set your own boundaries and asked to adapt them in critical moments when the company needs you
+    You will create processes & products that have never existed before
+    You will have very direct conversations and receive continuous feedback to push you to become the most thriving team member and performer you can be
+    Change is a constant here: your role, team, responsibilities, and success metrics will shift as the company grows
+
+And…
+
+    You get to be surrounded by some of the brightest minds in the field  
+    You get to learn and grow at an extremely accelerated pace
+    You will experience transparency, integrity, &  humility from leadership 
+    You will be empowered to constantly challenge the status quo
+    You get the space to experiment & innovate
+    You get to make a transformational impact for the company, mental health, and for real human lives — and you will see that impact quickly
+    You will become more resourceful and resilient
+    You get to be part of a winning team that opens doors in the future
+
+Benefits provided by Spring Health:
+
+Your Total Health:
+
+    Health, Dental, Vision benefits start on your first day at Spring Health. You and your dependents also receive an individual One Medical account which is valued at $199/year per user. HSA and FSA plans available
+    A yearly allotment of no cost visits to the Spring Health network of therapists, coaches, and medication management providers for you and your dependents
+    10 allocated sick days per year
+    Flexible paid time off in addition to 12 paid holidays throughout the year
+    Access to Gympass, an on-demand virtual benefit that provides wellbeing coaching, and budget management.
+    Spring Renewal: When you hit your four-year Springaversary, you’ll be awarded a four week, fully paid, sabbatical leave to renew and recharge. 
+
+You And Your family:
+
+    4-4.5 months of fully paid parental leave
+    Spring Health provides team members and their families with sponsored access to Bright Horizons® child care, back-up care, and elder care.
+    Access to fertility care support through Carrot, in addition to $4,000 reimbursement for related fertility expenses
+
+Supporting you financially through:
+
+    Our People team benchmarks all salaries using the Radford Global Compensation Database for technology and life sciences industries. Radford benchmarks salaries with 3,589 global firms, 6.5 million employees, and 98 countries across the globe. We do this to ensure all of our team members are paid equally and competitively.
+    On top of competitive and benchmarked salary, Spring Health offers incentive pay (based on role), and equity that begins vesting as we celebrate your first year with the company!
+    Employer sponsored 401(k) match of up to 2% after 90 days of employment
+
+Creating a culture you can thrive in:
+
+    Flexible work arrangements: 66% of Spring Health team members work fully remote while 33% work in a hybrid model from our New York City offices
+    Focus Fridays: no meetings, no distractions, just time for you to get work done.
+    Focus Weeks: In Spring 2023, we held our first ever Focus Week, we canceled all non-essential meetings, minimized distractions, and you, our team members, to dive into the key work that gets chopped up or deprioritized during the regular day-to-day. We saw a 36% jump in the average energized score after those five days of flow state work and are finalizing a plan for quarterly Focus Weeks for team members.
+    Up to $1,000 Professional Development Reimbursement per calendar year.
+    $200 per year donation matching to support your favorite causes|LinkedIn|1|2024-04-16 13:05:05
+10|https://wellfound.com/jobs/2938940-senior-developer-full-stack?utm_campaign=startup_share&utm_content=startup_share_module&utm_medium=social&utm_term=priori-legal|Senior Developer - Full Stack |Who We Are
+
+Priori is ranked a Chambers Tier 1 Global LawTech company and a Financial Times Intelligent Business, Priori is the game-changing legal technology platform for in-house legal teams to find and engage external counsel.
+
+Priori raised a $15 million Series A1 in July 2022, from Eagle Proprietary Investments, Thomson Reuters Ventures, The LegalTech Fund, Thirty Five Ventures, PEAK6 and Soma Capital in addition to existing investors Bridge Investments, Great Oaks Venture Capital, HearstLab, Mindset Ventures and Jambhala who participated in the funding round.
+
+Our team is passionate about making the $400BN legal industry more transparent and efficient.
+
+About the Role
+
+Priori Legal is looking to add a Senior Developer to our engineering organization. In this role, you will be involved in all aspects of the software development process. You will guide and contribute to the design and development of new features, help optimize and scale our application, and work within an agile development environment. You will be responsible for building both server-side logic (using Ruby on Rails) and front-end components (JavaScript using Vue.js). As a leader in the organization, you will be responsible for mentoring other Engineers through pair programming and code review.
+
+    Plan and contribute to all phases of the agile development lifecycle
+    Perform code review, mentor and support the work of junior developers
+    Ensure use of best practices (test-driven development, continuous integration, and code standards)
+    Test and maintain software products to ensure optimized functionality
+    Recommend and lead continuous adoption and integration of relevant new technologies
+    Clearly and regularly communicate with the CTO, Engineering Manager, Engineering Team, Product Team, and external stakeholders
+    Write clean, maintainable, and efficient code
+    Develop robust, scalable, and secure features
+
+Our Stack
+
+    Vue.js
+    Ruby on Rails
+    Postgres
+    Heroku
+    AWS
+    Github
+    Sentry
+
+About You
+
+    4+ years professional software development experience
+    Extensive knowledge of one or more modern front-end JavaScript frameworks (Vue, React, Angular)
+    Extensive knowledge of Ruby on Rails
+    Experience with responsive front-end frameworks (Bootstrap, Foundation, etc)
+    Experience with version control systems, such as Git
+    Understanding of Agile software development principles
+    Passion for writing great, simple, clean, efficient code
+    Ability to work independently and multi-task effectively|LinkedIn|0|2024-04-16 13:07:58
+11|https://boards.greenhouse.io/creativex/jobs/5138044004|Sr/Software Engineer - Dev Ops/Infrastructure (US Remote)|Sr/Software Engineer - Dev Ops/Infrastructure (US Remote)
+(View all jobs)
+US - Remote
+
+Senior/Software Engineer (Core Engineering Team)
+Job Location:  Remote anywhere in the US
+Start Date: ASAP/Flexible
+
+Unfortunately, we are not able to provide visa sponsorship for this role at this time.
+
+About CreativeX:
+
+CreativeX elevates the creative expression of data, building the global standard for creative quality. The world's biggest brands including Facebook, Unilever, Heineken and more use our technology and tools to make effective, data-driven creative decisions to achieve creative excellence at scale and maximize the impact of every creative decision through technology powered by machine learning.
+
+We are growing our Engineering team with additional Software Engineer opportunities to help take us to the next stage of our journey. We are currently looking for Senior Engineers to come and join our team!
+
+
+Who you are:
+
+We are looking for a seasoned technologist to join our core engineering team. The core team is part site reliability, platform engineering, and devops. Your specific responsibility will likely be a function of your interests and our priorities. You are probably a software engineer but have migrated to managing systems, or perhaps the other way around. You know how to build things but may be more interested in scaling and ensuring reliability.
+
+Here are examples things that we have done recently:
+
+Upgraded Ruby on Rails
+
+Performed SQL query tuning
+
+Introduced datadog to monitor system
+
+Built out Ansible to automate our production environment
+
+Our ideal new teammate is someone who likes to learn new things and stretch themselves. We know lots of places say that, so what do we mean? If you have been experimenting with a new piece of tech on the weekends and think it would help us work better, then encourage us to test it out! We value engineers who love data and appreciate the quantitative side of life. People who look for an extremely agile environment and love to work on an autonomous but closely-knit team would thrive here. We're looking for people who'll actively want to make our technology stack (and our company) better! Also, it's important to us that the person who joins wants to contribute to growing the CreativeX as a whole. While your main job will be coding, we prefer to work with people who speak up and make their voice heard when it comes to other aspects of our product, including design, UX, and feature development. At CreativeX we encourage applicants of all backgrounds and identities to apply for roles that align with their own interests and career trajectory.
+
+
+Preferred Qualifications / Experience
+
+    At least 3 years of relevant software engineering experience
+    Computer Science degree preferred but not required
+
+At CreativeX we encourage applicants of all backgrounds and identities to apply for roles that align with their own interests and career trajectory. If you meet a majority of the qualifications and see yourself in this role, we would love to see your application!
+
+
+What we Offer:
+
+🍎  Fully paid medical, dental, and vision (US) and Private Medical Insurance and Health Cash Plan ******(UK)
+
+✈️  Generous time off + bank holidays
+
+📚  Education budget to be used for individual learning experiences or grouped with your team for joint learning
+
+🧘  Annual subscription to Calm and Headspace for your mental wellbeing
+
+🎟  Monthly coaching to talk to a trained professional about career goals, relationships, and personal development
+
+💵  Competitive salary and commission plan including stock options, as we believe that everyone should have a stake in the business
+
+🍼  3-month full pay parenting leave for all employees who have been with the company for one (1) year
+
+🪴 Employee contributions to a 401(k) once they have completed their eligibility period|LinkedIn|0|2024-04-16 13:10:01
+12|https://boards.greenhouse.io/teamsourced/jobs/7333674002?gh_src=9316fd6a2us&source=LinkedIn|Technical CoFounder at TeamSourced|Technical Co-Founder - Exciting new brand
+
+About TeamSourced:
+TeamSourced is about to rebrand and deliver a product that will pioneer a new category we call AI-Powered Relationship Management (AIRM). We have already developed a multi-workspace CRM platform and a powerful Chrome extension that professionals use to streamline relationship management.
+
+Our vision is to revolutionize how professionals build and maintain relationships by leveraging cutting-edge AI technology. We are now seeking a visionary Technical Co-Founder to help us expand our integration capabilities, develop advanced technologies for data management, and integrate a generative AI agent into our platform and Chrome extension.
+
+Role Description:
+As the Technical Co-Founder, you will play a critical role in shaping the technical direction and development of our AI-powered relationship management solutions. You will lead the expansion of our integration capabilities, develop the platform, and integrate a generative AI agent into our existing platform and Chrome extension. It requires a strong commitment to our vision and the ability to collaborate effectively with cross-functional teams.
+
+Key Responsibilities:
+
+    Collaborate with the founding team to define the technical roadmap and architecture of our AI-powered relationship management solutions
+    Lead the development of our expanded platform, ensuring efficient and secure data management
+    Integrate a generative AI agent into our existing platform and Chrome extension to provide intelligent insights and automation
+    Expand our platform's integration capabilities
+    Manage technical projects from ideation to implementation, ensuring timely delivery and high-quality output
+    Build and lead a high-performing engineering team, fostering a culture of innovation and excellence. (Note that if this is an area you are not strong in but want to learn and grow in, please still apply. We can develop you as a leader.)
+    Implement best practices in software development, testing, and deployment to ensure the scalability and reliability of our solutions
+    Stay up-to-date with industry trends and advancements in AI, data management, and relationship management technologies
+    Collaborate with product management, design, sales, and marketing teams to drive product development and growth
+    Contribute to the overall strategy and decision-making process as a key member of the leadership team
+
+Qualifications:
+
+    Founder mentality. We ground and built two businesses over four years to build this platform. We want someone coming in with an equal passion for building innovative products that solve real-world problem
+    Proven track record of technical knowledge and hands-on experience in building scalable AI-powered solutions
+    Strong expertise (or hunger and desire to learn and grow quickly) in AI, machine learning, data management, and integration technologies
+    Self-motivated. We don't have an office; we work remotely. We need someone who is disciplined and will be green on slack as often as we are. 
+    Proficiency in modern programming languages and frameworks (e.g. JavaScript, Typescript, React, Ruby on Rails)
+    Experience with cloud platforms (e.g., AWS) and deploying large-scale applications
+    Do you have an opinion on whether we should use our already built OpenAI API endpoints or rebuild and host them with LLaMA of DBRX?
+    Strong analytical skills, with the ability to make data-driven decisions
+    Decent communication and collaboration skills, with the ability to work effectively with cross-functional team
+    A bachelor's or advanced degree in Computer Science, Engineering, or a related field is great but not required.
+        Candidates who meet our responsibilities and qualities listed above (or are close) and are hungry to build something big can also apply.
+
+Compensation and Benefits:
+
+    Initial salary of $0 until we raise funding or achieve profitability
+    After funding or profitability, the salary range will be $150,000 to $180,000 per year based on prior experience, with a graduated salary based on platform performance and revenue objectives obtained
+    Generous equity package commensurate with experience and contribution
+    Flexible work hours and remote work options
+    Opportunity to work with cutting-edge AI technologies and shape the future of work.
+
+TeamSourced is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+Please note that no physical presence at a specific location is required for this role. The position is open to candidates residing in California, USA, and relocation assistance is not provided.
+
+If you are tired of working with assholes who get rich off your labor and rarely reward you, then come and talk with us. We have built recruiting departments for 18 VC-backed startups. We have seen all the stupid mistakes and BS. There is none of that with us. We are focused on our labor, and then we focus on our lives and families.  We want someone who wants to work with a good group of people whom they can trust and with whom they can also share a nice chunk of the profits over time.
+
+While trying to raise money, we are also racing to enable monetization and start charging customers. We are also turning our marketing on as well and are seeing a lot of positive signs from the network. If you read all the way to this point, you are super detailed oriented. Why not email me at michael@teamsourced.com? Let's start talking.|LinkedIn|1|2024-04-16 13:12:18
+13|https://tbkbank.wd1.myworkdayjobs.com/tpay/job/Remote---United-States/Senior-Software-Engineer--open-to-remote-_REQ-3061-1?source=LinkedIn|Senior Software Engineer - Ruby on Rails (Remote)|locations
+    Remote - United States
+
+time type
+    Full time
+
+posted on
+    Posted 6 Days Ago
+
+job requisition id
+    REQ-3061
+
+Join TriumphPay!
+
+At TriumphPay, a member of the Triumph Financial portfolio of brands, we believe our team members make a difference. They make a difference in the lives of their customers, their communities and with our organization as a whole. That's why we look for team members with an entrepreneurial spirit and a passion to build successful partnerships with our clients. Because at the end of the day our goal is to help our partners businesses run better.
+
+At TriumphPay, we are building the transportation payments network for the future. Our software touches a combined $37.1B in annualized freight volume, representing over 20% of the brokered freight market in the U.S. TriumphPay’s customers are using our products to solve real world problems. This is both exciting and also an incredible responsibility.
+
+We are looking for experienced full-stack engineers to join our team of 35+ engineers. If you join TriumphPay, you will work closely in a team of 3-5 people on a specific project. Teams are responsible for managing their own backlogs and schedule. To develop a breadth of experience, our engineers rotate on a quarterly basis. A rotation gives the team a chance to work with others, and work on a variety of projects, sometimes utilizing differing technologies.
+
+Our engineering team is fully remote and believes strongly in work-life balance.
+
+A Day In The Life: 
+
+There’s no defined template that teams at TriumphPay follow, allowing each team to build the day that lets them perform at their best.
+
+Typically, a team has a morning standup allowing them to catchup on what happened yesterday, and ensure there’s a plan in place for the day ahead. You’ll work with our product group and members of the sales team to ensure we’re building the tools our customers need to succeed.
+
+Our teams are split into four working areas and you’d have the ability to work throughout these areas depending on your skills, experience, and interests.
+
+The Tech:
+
+Across our team we work in a mixture of Ruby (with Sorbet), Elm, and React (TypeScript).
+
+We love curious individuals who believe they can always improve, and we know that good developers are capable of picking up new languages and tools.
+
+Engineers are provided a top of the line MacBook to do their work, and you’ll have access to all the necessary tooling to do the non-coding parts of your job (Zoom, Slack, etc.).
+
+To succeed in this role, you should be:
+
+    Curious. You aren't content with the status quo and know that we can always improve.
+
+    Collaborative. You can work with others to improve a solution.
+
+    Empathetic. Your designs are influenced by a deep understanding of the customers' needs.
+
+    A strong communicator. You will proactively communicate issues and trade-offs with team members to support alignment and fast decision making.
+
+    Be an outstanding developer. Your peers should recognize you as one of the best and the brightest developers they have worked with.
+
+    A superb problem solver, with a knack for technical innovation.
+
+Bonus points for:
+
+    Leading an engineering team or running a consulting company.
+
+    Experience with functional languages like Elm, Haskell, OCaml, or Elixir.
+
+    Previous Logistics experience.
+
+The full salary range for this role is $141,000 - $218,548 USD Annually.
+
+***Location:  Dallas, TX or Remote U.S. excluding the following states:  AK, CT, DE, ID, IN, MD, MA, MS, MT, NE, NC, ND, RI, SD, VT, WA, WV, WY***
+
+#LI-JC1
+
+#LI-Remote
+
+We offer Medical, Dental, Vision, Paid Time Off, 401k and much more.|LinkedIn|1|2024-04-16 13:13:19
+14|https://www.karsuncareers.com/jobs/3449?mode=apply&iis=LinkedIn&lang=en-us|Senior DevOps Engineer|Job Description
+
+As a Senior DevOps Engineer, you will help build out and run production environments, automate operations and maintain and support infrastructure.  Successful collaboration with the development teams is an integral part of this role.
+
+    Implement and support integrated CI/CD pipelines for on-premises and/or cloud assets using tools such as Jenkins, GitHub/Bitbucket, Nexus/Artifactory
+    Implement, deploy and maintain infrastructure as code (IaC) for provisioning infrastructure using AWS CloudFormation or Terraform
+    Maintain, monitor, and improve application configurations using tools such as Ansible, Packer, Puppet, or Chef Designs, deploys, monitors, and manages cloud solutions in public environments such as AWS or Azure, or private environments using tools such as VMWare and NetApp.
+    Hands on coding and scripting
+    Deploy and manage applications into container platforms such as Docker, EKS, or OpenShift
+    Design, build, and maintain automated monitoring and notification services to support fault tolerant and highly available systems and metrics using tools such as AWS CloudWatch, EFK, and Prometheus
+
+Required:
+
+    Typically requires a bachelor’s degree and 8-10 years of relevant experience
+    7+ years of hands-on experience implementing &amp; configuring cloud environments (e.g. AWS, SalesForce, Azure)
+    Experience in implementing infrastructure as code
+    Strong cloud platform experience (preferably with Amazon Web Services)
+    Experience in at least one technology/tool from each of the following categories:
+        Configuration Management: Helm, Ansible (preferred), Chef, or Puppet
+        GitOps: Flux or Argo CD
+        Shell Scripting: BASH, PowerShell
+        Systems Administration: Linux (RHEL), Windows
+        CI/CD Tools: Jenkins, Go CD
+        Build Automation: Maven, Gradle
+        Version Management: Git (preferred), SVN
+        Web Server: Apache, Nginx, HAProxy
+        Programming Languages: Python, Ruby, Java
+        Agile Methodologies: Kanban (preferred), Scrum
+        Availability during the core business hours of 9-5 EST
+    Ability to obtain an maintain a Public Trust clearance
+
+Preferred:
+
+    Experience deploying enterprise software within AWS Services, including: RDS, EC2, Elastic Load Balancers, Cloud Formation, ECS, Lambda, DynamoDB, multi regions, and API Gateway
+    Candidates in the easterrn, central or mountain time zones
+    Experience supporting US federal government contracts
+
+In accordance with pay transparency guidelines, the proposed salary range for this position is $120,000 to $155,000. Final salary will be determined based on various factors such as relevant skills, experience and certifications. 
+
+Find Your Next at Karsun Solutions and transform your career with the company transforming possible for the US Government.
+
+At Karsun, collaboration drives our community. We’re committed to building an environment where team members from diverse backgrounds can innovate, learn and grow with us. Here at Karsun, the only limit to your potential is the limit of your curiosity.
+
+And because we know well-being empowers us to thrive, we offer robust and comprehensive benefits including:
+
+    Health, Life & Disability Insurance – Medical, Dental, Life and Disability coverage is paid for by Karsun for full time employees.
+    Paid Parental Leave
+    401k Retirement Plan – with pre-tax and post-tax ROTH contribution offerings and immediate vesting with a per pay period match
+    Generous time off programs including 11 paid holidays per year
+    Supplemental plans such as Vision, Pet Insurance and 529 Savings Plan
+    Employee Assistance Program with behavioral health, physical wellness and financial advice
+    Employee Discounts & Perks
+    In-house Technical/Skills Training
+
+Join Team Karsun and Find Your Next.
+
+Karsun Solutions is an Equal Employment Opportunity (EEO) employer. It is the policy of the Company to provide equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+
+Karsun does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Karsun and Karsun will not be obligated to pay a placement fee.|LinkedIn|1|2024-04-16 13:15:22
+15|https://ats.rippling.com/androscareers/jobs/23d43d2c-f7ae-42cb-bd35-4856013e481e?jobSite=LinkedIn|Data Software Engineer|Data Software Engineer
+
+About Us
+
+Our culture is built on passion, innovation, and transparency. We support each other unequivocally and we value strong communication, which stems from our love for our work, our clients, and our people.
+
+We cultivate an environment that promotes collaboration, taking ownership, and ensuring voices are heard at every level. We believe in enabling innovative self-starters who are passionate about making a positive impact on healthcare administration. We foster continuous growth through our learning & development programs and our commitment to creating a diverse and inclusive culture.
+
+ 
+
+Mission:
+The mission of a Senior Data Engineer is to leverage healthcare data from a variety of  sources to empower users, internal stakeholders, and our product & engineering teams in efforts to build data aspects of andros products & solutions.  You’ll be analyzing, managing,  and augmenting data assets to drive new insights and react to changes in that data quickly.  Our stack is primarily Python, ElasticSearch, and Postgres with other technologies like Airflow, Lambda, and various AWS technologies. 
+
+Outcomes:
+
+    Develop stable software that satisfies data product requirements as well as meeting architectural specifications
+
+        Transform raw data into merging it with our global provider view enabling health care professionals to make informed business decisions.
+
+            Review data requirements / data stories and corresponding data sources and data architecture
+
+            Design and build a robust data model architecture to support optimal data processing and standardized metric definitions
+
+        Maintain high levels of code test coverage while delivering clean concise and understandable code
+
+        Builds and works with distributed computing systems for processing large data sets.
+
+        Document data requirements / data stories and maintain data models to ensure seamless integration into existing data architectures
+
+        Design, build, and maintain robust and efficient data pipelines that collect, process, and store data from various sources, including NPPES and state license data.
+
+    Collaborate with cross-functional teams, including Data Analysts, Product Managers, and Software Engineers, to define data requirements, and deliver data solutions that drive internal alignment and process improvements
+
+        Provide constructive feedback on architectural designs and peer code reviews
+
+    Contribute to building a best in class Provider Data Management system to empower users to collect,  analyze and react to provider data in new ways.
+
+Role-Specific Competencies:
+
+    Independent worker: Need to be able to communicate but also work independently 
+
+    Cross-team collaboration: Collaborate across teams including but not limited to Engineering, Operations, and Client Success
+
+    Curiosity and drive: Demonstrate curiosity and a well-developed drive to find answers to questions that are currently being asked or haven’t yet been asked
+
+    Excellent communicator: comfort explaining technical problems in person and in writing
+
+    Self-directed: Seeks responsibility, and strives for excellence.   Proactively identifies problems and presents solutions.
+
+
+Desired Qualifications: 
+
+    5+ years professional full time software development experience
+
+    Advanced knowledge and experience with Python. 
+
+    Experience with Ruby
+
+    Experience with Spark or PySpark or Map Reduce
+
+    Experience with AWS or other cloud services
+
+    4+ years experience with PostgreSQL or other RDBMS
+
+    2+ years experience with ElasticSearch
+
+    Proficient in operating system concepts, specifically Linux
+
+    Outstanding coding skills, knowledge of patterns and best practices in a  object oriented style
+
+
+Salary Range:
+$140,000-$155,000|LinkedIn|1|2024-04-16 13:16:07
+16|https://jobs.ashbyhq.com/syndica/e951d1a1-4573-48f6-85da-919cbefabc9e|Senior Cloud DevOps Engineer|Syndica is a developer infrastructure company building the cloud of web3. We are dedicated to building developer infrastructure that just works. Syndica offers highly scalable RPC node infrastructure, with advanced logging and analytics.
+
+Our team is composed of the brightest crypto-native minds from places like Messari and 0x Labs as well as traditional technology firms like Facebook, AWS, Microsoft, and more.
+
+We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Coinbase Ventures, Solana Ventures, and many more.
+
+At Syndica, big things happen. Every day, we’re translating vision into reality by tackling new and exciting challenges head-on. This is a breakthrough stage in our company, and you’ll experience firsthand the infectious enthusiasm of our employees and leadership team. You’ll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in crypto.
+
+This role will have the primary accountability of designing, implementing, and operating Syndica’s blockchain infrastructure platform. Kubernetes knowledge is a necessity! The team operates with a “run what you write” philosophy and each engineer is responsible for deploying and operating the code they write.
+
+A successful candidate must have demonstrable experience in at least one programming language (Go, Rust or C++), and preferably previous work in SaaS application development and operations. You will be working closely with the Support and Development team on the architecture and configuration of our AWS and GCP hosted infrastructure. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.
+
+Responsibilities
+
+    Work with containers and container orchestration systems such as Kubernetes
+
+    Manage AWS, Azure and/or Google Cloud infrastructure
+
+    Deploy, manage, and operate scalable and fault-tolerant applications/micro-services infrastructure
+
+    Create capacity and load testing distributed applications
+
+    Perform system measurements and benchmarking
+
+    Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware to operating environment, network, and application
+
+    Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans
+
+    Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices
+
+    Use tools such as Grafana and Prometheus to monitor infrastructure at scale
+
+Qualifications
+
+    5+ years of related professional experience using Kubernetes
+
+    5+ years of experience with cloud networking technologies and solutions
+
+    Experience with setting up a Continuous Integration / Continuous Development pipeline
+
+    Manage containers using container orchestrator Docker, Kubernetes (K8s)
+
+    Knowledge of Cloud native architecture, Cloud tooling, DevOps and latest trends and practices
+
+    Certification in Google Cloud, Azure Cloud or AWS is a plus
+
+    Align a portion of your day with the business hours of Central Time Zone - UTC -6
+
+    A systematic problem-solving approach, combined with a strong sense of ownership and drive
+
+    Bachelor’s degree in Computer Science or related field or relevant experience
+
+What does success in this role look like?
+
+    In three months, you have become one of our lead Infrastructure developers. You’ll have taken on independent code review responsibilities and are collaborating on the design of new features.
+
+    In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team.
+
+    In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners - we love clean, maintainable code.|LinkedIn|1|2024-04-16 13:18:14
+17|https://preview-site-a2b0c9.ttcportals.com/jobs/14233886-cloud-architect?tm_job=R-232&amp;tm_event=view&amp;tm_company=90918&amp;bid=370|Cloud Architect|Cloud Architect
+Why Norstella?Norstella unites market-leading companies that all have a shared goal of improving patient access. Each organization (Evaluate, MMIT, Panalgo, Citeline and The Dedham Group) delivers must-have answers for critical strategic and commercial decision-making.
+Together, we help our clients:
+
+    Assess the market need and competitive landscape
+    Know precisely which drugs to prioritize in their portfolios
+    Find out where the launch difficulties will bebefore theyre difficulties
+    Track and improve market access post-launch
+
+By combining the efforts of each organization under Norstella, we can offer an even wider breadth of expertise, cutting-edge data solutions and expert advisory services alongside advanced technologies such as real-world data, machine learning and predictive analytics. At Norstella, we dont just deliver information and insights. We deliver answers you can act on.
+About the role:
+We are seeking a skilled and experienced AWS Cloud Architect to join our team and lead the design, implementation, and optimization of cloud-based solutions on the Amazon Web Services (AWS) platform. The ideal candidate will have a deep understanding of AWS services, architecture principles, and best practices to architect scalable, secure, and highly available cloud solutions for our organization.
+Responsibilities:
+
+    Design and architect cloud-based solutions on AWS that meet the organization's requirements for scalability, reliability, security, and performance.
+    Design, implement, and manage AWS infrastructure components including compute, storage, networking, databases, and security services.
+    Document architecture designs, configurations, and procedures. Promote best practices for AWS usage and ensure adherence to standards and guidelines
+    Collaborate with cross-functional teams including developers, DevOps engineers, and business stakeholders to understand requirements and translate them into technical solutions. Communicate effectively with stakeholders at all levels.
+    And other duties as assigned
+
+Requirements:
+
+    Bachelor's degree in Computer Science, Information Technology, or related field. Master's degree preferred.
+    Proven experience designing and implementing complex, scalable, and secure solutions on AWS.
+    Deep understanding of AWS services including EC2, S3, RDS, Lambda, VPC, IAM, CloudFormation, and others.
+    Strong knowledge of networking concepts, security principles, and best practices in cloud environments.
+    Experience with DevOps practices and tools such as CI/CD pipelines, configuration management, and infrastructure as code (IaC), specifically Terraform
+    Excellent problem-solving skills and ability to work in a fast-paced, dynamic environment.
+    Experience with containerization technologies such as Docker and Kubernetes.
+    Familiarity with serverless computing and microservices architecture.
+    Experience with big data technologies such as Snowflake, Databricks and analytics platforms on AWS such as Sagemaker.
+    Experience with ML Ops and Artificial Intelligence
+    Strong communication, collaboration, and interpersonal skills.
+
+Preferred Qualifications:
+
+    AWS certifications such as AWS Certified Solutions Architect Associate or Professional.
+    Experience with other cloud platforms such as Microsoft Azure or Google Cloud Platform
+
+The guiding principles for success at Norstella:
+01: Bold, Passionate, Mission-First
+We have a lofty mission to Smooth Access to Life Saving Therapies and we will get there by being bold and passionate about the mission and our clients. Our clients and the mission in what we are trying to accomplish must be in the forefront of our minds in everything we do.
+02: Integrity, Truth, Reality
+We make promises that we can keep, and goals that push us to new heights. Our integrity offers us the opportunity to learn and improve by being honest about what works and what doesnt. By being true to the data and producing realistic metrics, we are able to create plans and resources to achieve our goals.
+03: Kindness, Empathy, Grace
+We will empathize with everyone's situation, provide positive and constructive feedback with kindness, and accept opportunities for improvement with grace and gratitude. We use this principle across the organization to collaborate and build lines of open communication.
+04: Resilience, Mettle, Perseverance
+We will persevere even in difficult and challenging situations. Our ability to recover from missteps and failures in a positive way will help us to be successful in our mission.
+05: Humility, Gratitude, Learning
+We will be true learners by showing humility and gratitude in our work. We recognize that the smartest person in the room is the one who is always listening, learning, and willing to shift their thinking.
+Benefits:
+
+    Medical and prescription drug benefits
+    Health savings accounts or flexible spending accounts
+    Dental plans and vision benefits
+    Basic life and AD&D Benefits
+    401k retirement plan
+    Short- and Long-Term Disability
+    Paid parental leave
+    Paid time off
+
+The expected base salary for this position ranges from $170,000 to $220,000. It is not typical for offers to be made at or near the top of the range. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, licensure or certifications obtained. Market and organizational factors are also considered. In addition to base salary and a competitive benefits package, successful candidates are eligible to receive a discretionary bonus.
+Norstella is an equal opportunities employer and does not discriminate on the grounds of gender, sexual orientation, marital or civil partner status, pregnancy or maternity, gender reassignment, race, color, nationality, ethnic or national origin, religion or belief, disability or age. Our ethos is to respect and value peoples differences, to help everyone achieve more at work as well as in their personal lives so that they feel proud of the part they play in our success. We believe that all decisions about people at work should be based on the individuals abilities, skills, performance and behavior and our business requirements. Norstella operates a zero tolerance policy to any form of discrimination, abuse or harassment.|LinkedIn|1|2024-04-16 13:19:43
+18|https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2024000262?utm_medium=jobshare?iis=Job+Board&iisn=LinkedIn|Sr AWS DevOps Engineer - REMOTE|We currently have a career opportunity for a Senior AWS DevOps Automation Engineer.  While our headquarters location is St. Louis, MO, this position is remote and can be based anywhere within the United States and will be working ET zones. 
+
+Perficient is always looking for the best and brightest talent and we need you! We’re a quickly-growing, global digital consulting leader, and we’re transforming the world’s largest enterprises and biggest brands. You’ll work with the latest technologies, expand your skills, and become a part of our global community of talented, diverse, and knowledgeable colleagues.
+
+ 
+
+Job Overview:
+
+We are seeking a highly motivated AWS DevOps Automation Engineer to join our team. In this role, you will play a key part in designing, developing, and implementing automated solutions to optimize AWS environments and support software development teams.
+
+ 
+Responsibilities
+
+    Support software development teams in an enterprise IT environment, fostering shared ownership of resources, environments, platforms, and tools.
+    Champion DevSecOps practices, with a deep understanding of the path to production flow, branching & merging strategies, unit testing, code quality & security with SonarQube, dependency management, artifact & release management, and workflow orchestration (including test automation, IaC/configuration management, and Telemetry Data Management).
+    Manage daily tasks and prioritize backlogs using JIRA effectively.
+    Utilize Git, GitFlow, and GitOps for version control.
+    Leverage GitHub Actions to automate workflows.
+    Manage and support EKS workloads within an AWS environment.
+    Employ Terraform to provision AWS resources and services efficiently.
+    Utilize ServiceNow to manage IT support issues, incidents, and change requests.
+
+Qualifications
+
+    Proficiency in AWS services such as EC2, S3, RDS, Lambda, and IAM.
+    Experience supporting software development teams in an enterprise IT environment.
+    Proven understanding of DevSecOps principles and methodologies.
+    Proficiency in JIRA for task management and backlog prioritization.
+    Expertise in Git, GitFlow, and GitOps for version control.
+    Experience with automation tools like GitHub Actions and proficiency in Python scripting.
+    Experience managing and supporting EKS workloads in AWS.
+    Strong understanding of Infrastructure as Code (IaC) with Terraform.
+    Working knowledge of ServiceNow for IT service management.
+    Excellent communication, collaboration, and problem-solving skills.
+     
+
+Additional skills:
+
+    Experience with CI/CD tools (e.g., Jenkins, CircleCI).
+    Experience with container orchestration tools (e.g., Docker Swarm).
+    Experience with cloud cost optimization strategies.
+
+ 
+
+Preferred education and certification:
+
+    Bachelor’s degree in computer science or related field
+    AWS certified DevOps Engineer Professional or AWS certified Developer Associate
+
+ 
+
+The salary range for this position takes into consideration a variety of factors, including but not limited to skill sets, level of experience, applicable office location, training, licensure and certifications, and other business and organizational needs. The new hire salary range displays the minimum and maximum salary targets for this position across all US locations, and the range has not been adjusted for any specific state differentials. It is not typical for a candidate to be hired at or near the top of the range for their role, and compensation decisions are dependent on the unique facts and circumstances regarding each candidate. A reasonable estimate of the current salary range for this position is $64,974 to $149,880. Please note that the salary range posted reflects the base salary only and does not include benefits or any potential equity or variable bonus programs. Information regarding the benefits available for this position are in our benefits overview.
+
+WHO WE ARE
+
+Perficient is a leading global digital consultancy. We imagine, create, engineer, and run digital transformation solutions that help our clients exceed customers’ expectations, outpace competition, and grow their business. With unparalleled strategy, creative, and technology capabilities, our colleagues bring big thinking and innovative ideas, along with a practical approach to help our clients – the world’s largest enterprises and biggest brands succeed.
+
+WHAT WE BELIEVE
+
+At Perficient, we promise to challenge, champion, and celebrate our people. You will experience a unique and collaborative culture that values every voice. Join our team, and you’ll become part of something truly special.
+
+We believe in developing a workforce that is as diverse and inclusive as the clients we work with. We’re committed to actively listening, learning, and acting to further advance our organization, our communities, and our future leaders… and we’re not done yet.
+
+Perficient, Inc. proudly provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a protected veteran in accordance with applicable federal, state and local laws. Perficient, Inc. complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. Perficient, Inc. expressly prohibits any form of unlawful employee harassment based on race, color, religion, gender, sexual orientation, national origin, age, genetic information, disability, or covered veterans. Improper interference with the ability of Perficient, Inc. employees to perform their expected job duties is absolutely not tolerated.
+
+Applications will be accepted until the position is filled or the posting removed.|LinkedIn|0|2024-04-16 13:20:57
+19|https://boards.greenhouse.io/pricespider/jobs/7110441002|DevOps Engineer II|We are a company on a mission to breathe life back into the buyer’s journey and help people fall back in love with the brands that make them thrive.​
+
+ 
+
+Company culture:
+
+At PriceSpider, we help brands from around the world make the shopping experience more human. And what is more human than shopping for our necessities and luxuries. The beauty of commerce is opening ourselves up to something new. 
+
+At PriceSpider we’re always looking for the best talent, to serve the best brands on the planet, no matter where you hail from, what background you have, or how you identify, you have a home at PriceSpider. No extra legs needed...talent required. 
+
+When you choose to work at PriceSpider — just like the brands, retailers, and shoppers we serve — we all stand together as one. 350 employees working from four countries serving brands across the globe toward one inclusive goal.
+
+ 
+
+Job description:
+
+The DevOps team is responsible for our multi-cloud infrastructure running on AWS, GCP and Azure encompassing the following tech stack: Github, Github Actions, Kubernetes/EKS/GKE, Serverless, BigQuery/Looker, Data Lake, Data Pipeline, IaC and Cloud Security. Under the guidance of the Lead DevOps Engineer, the DevOps Engineer II is expected to contribute to the effort in our DevOps and Cloud transformation journey supporting the CICD pipeline, observability toolchains, security governance, cloud cost governance, container orchestration and automation. 
+
+ 
+
+What will you be doing:
+
+    Cloud Administration (AWS and GCP) 
+    CICD automation and management (experience with at least one: Github, Gitlab, Jenkin) 
+    Collaborate with teams across the organization to ensure DevOps best practices are leveraged as we roll out new features and expand our platform offerings. 
+    You will promote, document, and implement infrastructure and deployment best practices, building and utilizing tools that allow the team to develop and deploy software for our clients to use. 
+    Identify and implement automation for repetitive tasks and requests. 
+    Work with global teams of engineers, providing them with the right tools to increase developer velocity. 
+    Perform cost review of existing cloud resources; assess opportunities for reducing costs or infrastructure footprint while keep existing SLA 
+    Drive initiatives for upgrading and scaling our systems to enhance capacity, feature set, availability, reliability, and performance. 
+    Provide operational support for all environments, including participating in a rotating 24/7 On-Call schedule.
+     
+
+Requirements:
+
+    3+ years of experience in a DevOps/SRE engineering role 
+    2-3 years of working in cloud based infrastructure such as AWS, GCP, Azure. AWS is a must. 
+    1-2 years of hands-on experience with Docker, Kubernetes, GitHub, Ansible, Terraform, Cloud formation 
+    1-2 years of hands-on experience with observability tools such as Prometheus, Grafana, Loki, etc in complex cloud based environments. 
+    In depth knowledge of Linux: RedHat, CentOS, Debian, etc. 
+    Strong analytical and troubleshooting skills 
+    Solid experienced with 1 or more scripting languages (Bash, Python, and/or Golang) 
+    Experience with: IaC (ie. Terraform), Docker, Kubernetes/EKS, Secrets Management, Git (ie: Gitlab, Github, Github Actions), and all things AWS and GCP 
+    Ability to learn fast and be adaptable to environments and change. 
+    Excellent oral and written communications skills and be diplomatic across all teams 
+    Must be capable of self-managing. Prioritization and time management are an absolute 
+    must. 
+    Comfortable in a high speed, rapidly growing startup environment 
+
+Preferred Requirements: 
+
+    ELK 
+    EKS/GKE 
+    Familiar with AWS technology including EC2, EBS, Elastic Search, Elastic cache, DynamoDB, SQS and S3 
+
+ 
+
+Benefits:
+
+PriceSpider encourages a healthy work-life balance and commitment to employee wellbeing. We are consistently evaluating areas to support and foster a community of engaged employees. PriceSpider is an international employer so some benefits offering will vary from country to country, however, below you can see employer sponsored contributions:
+
+    Flexible work-from-home arrangements
+    401K Match
+    Flexible vacation
+    Medical/Dental/Vision
+    16 weeks of paid parental leave (US)
+    Technical stipend
+    Professional development programs
+    Wellness programs
+
+Compensation:
+
+The base salary for this role is $120,000-150,000. Please note that our salary ranges are based on current market data and the offered compensation may vary based on experience, skills, location, and other factors permitted by law.|LinkedIn|1|2024-04-16 13:22:16
+20|https://lumenalta.com/jobs/prod-analyst|Product Analyst|About the Role:
+
+Our product team is made up of people with many different backgrounds ranging from client services, sales, marketing and several industries in-between. They have leveraged their strengths from previous disciplines and have one thing in common: they are strong leaders who keep our clients at the center of everything they do to ensure teams deliver high quality products. The current team landscape consists of roles varying from Jr. Product Analyst to Sr. Product Analyst and Product Quality Lead to Associate of Product Delivery. We value growth and forward movement that aligns with an individual's strengths and honing in on how they can most effectively impact our projects.
+Who You Are
+
+    Clients love working with you
+    You’re tech savvy
+    You have managed client projects, including driving successful delivery and meeting deadlines
+    You possess strong communication, presentation, and leadership skills
+    You pick up on small details that other people miss
+    You enjoy working amongst a collaborative and supportive team
+
+Requirements:
+
+    Bachelor’s degree from a reputed university
+    3+ years post-baccalaureate work experience in product management or project management with a Fortune 500 calibre organization
+    High proficiency in project management tools (eg. Jira, ZenHub) and methodologies (eg. Scrum, Agile)
+    Strong track record of work-based success with tangible achievements attributable to you
+    Confidence in regularly communicating complex ideas both verbally and in writing
+    Candidates must be located within the United States or Canada, this is a full-time position (W2 US/T4 Canada). Must be willing to travel on an occasional basis as needed
+    This role is 100% remote, you must have a professional office set-up at your working location
+    Must be able to pass a background check
+
+Responsibilities:
+
+    Work with clients to understand their users and advocate for their needs
+    Document requirements provided by the client as user stories and acceptance criteria in a scrum backlog
+    Assist development teams in removing blockers and getting questions answered
+    Consult on UI/UX design and usability
+    Facilitate communication between Frontend and Backend development teams, DevOps Engineers, UI/UX Designers and clients
+
+Straight from the Devs
+
+Watch short snippets of actual developers (Real, not scripted) share why they joined. YouTube Playlist
+Why Lumenalta is an amazing place to work at
+
+At Lumenalta, you can expect that you will:
+
+    Be 100% dedicated to one project at a time so that you can innovate and grow.
+    Be a part of a team of talented and friendly senior-level developers.
+    Work on projects that allow you to use leading tech.
+
+The result? We produce meaningful outcomes for our clients that break barriers in their industries.|LinkedIn|1|2024-04-16 13:23:11
+21|https://jobs.ashbyhq.com/Pagos/878f5c66-03f6-44c7-b3af-4225f7e93e10?source=LIdirect|DevOps Engineer|About Us
+
+At Pagos, we’re passionate about empowering businesses to take control of their payments stack and solve the puzzles standing between them and optimized growth. Our global platform provides developers, product teams, and payments leaders with both a deeper understanding of their payments data and access to new payments technology through user-friendly tools that are easy to implement. To succeed in this, we need creative thinkers who are willing to roll up their sleeves and start building alongside us.
+
+About the Role
+
+As a DevOps Engineer, you’ll bridge the gap between operations and development, and ensure the seamless integration of new projects and tools. You’ll drive the scaling and efficiency of our data infrastructure to support our growth. Doing so will require collaboration with backend engineers, data analysts, and others; it will be your responsibility to ensure these teams can work efficiently and have the proper infrastructure necessary to deliver products to our customers today and in the future. Growing fast is all great, but it also means our systems need to support constantly increasing load and volume.
+
+We’re seeking an action-oriented and collaborative problem solver who thrives in ambiguity and can take on new challenges with optimism in a fast-moving environment. We value team members who are not only skilled in their area of expertise but are also perpetual learners who are committed to growth and contributing to our collective success.
+
+In this role, you will:
+
+    Maintain and improve our infrastructure for scale, availability, and performance
+
+    Ensure we are safe and secure against cybersecurity threats, and also stay compliant with industry requirements
+
+    Serve as a key resource to our engineers and analysts for projects, including building and implementing necessary infrastructure
+
+    Help ensure our software engineers, machine learning engineers, and analysts can work efficiently and improve the development and release processes
+
+    Test and examine systems written by others and analyzing results
+
+    Play a key role in integrating and setting up connections with data providers and internal teams
+
+    Drive projects from start to finish with a high level of ownership and autonomy
+
+What We’re Looking For
+
+We’re looking for someone with:
+
+    5+ years of devops experience working with infrastructures for big data workloads
+
+    Deep understanding of AWS product offering and services
+
+    Experience with Kubernetes, Docker, orchestration tools, ETL/ELT frameworks, and common data transfer protocols
+
+    Experience maintaining and setting up big data pipelines for time series data
+
+    Proficiency with Terraform, Git, and GitHub workflows
+
+    Working knowledge of databases and SQL (e.g. Redshift, Delta Lake, Postgres, ElasticSearch, and Redis)
+
+    A bias for action and a problem-solving attitude
+
+Nice to haves: 
+
+    Experience supporting the training and management of machine learning models 
+
+    Comfort and/or past experience working with Airflow, DBT, Apache Spark, Apache Kafka, Redshift, Grafana
+
+    Experience working in high-growth, venture-backed startup(s)
+
+    Experience setting up and maintaining Pagerduty, ensuring operation uptime|LinkedIn|1|2024-04-16 13:23:57
