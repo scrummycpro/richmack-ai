@@ -1,0 +1,7 @@
+I. Devops is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the system development life cycle and provide continuous delivery with high software quality.
+
+II. In the context of PySpark, Devops is:
+   A. Is associated with: Continuous Integration and Continuous Delivery (CI/CD) pipelines, which allow for frequent code releases and testing in a production-like environment.
+   B. Should be associated with: Version control systems like Git and tools for automating deployments and containerization such as Docker and Kubernetes.
+   C. Is not directly related to: Writing PySpark code itself but rather the process of building, testing, and deploying PySpark applications.
+   D. Should not be associated with: Manual deployment processes or lack of automation in software development and delivery.
