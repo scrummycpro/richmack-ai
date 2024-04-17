@@ -30,9 +30,19 @@ def generate_response():
     technology = tech_entry.get()
     document_text = document_text_entry.get(1.0, tk.END).strip()
     
-    # Initialize chromadb client and create a collection
+    # Initialize chromadb client
     client = chromadb.Client()
-    collection = client.create_collection(name="docs")
+    
+    try:
+        # Attempt to query the collection to check if it exists
+        collection = client.get_collection(name="docs")
+    except ValueError as e:
+        # Collection doesn't exist, so we create a new one
+        if str(e) == f"Collection docs does not exist.":
+            collection = client.create_collection(name="docs")
+        else:
+            # Other unexpected error
+            raise e
 
     # Generate embedding for the document text
     response = ollama.embeddings(model="mistral", prompt=document_text)
@@ -44,7 +54,7 @@ def generate_response():
     )
 
     # Construct the prompt with placeholders for parameters
-    prompt_template = "In the form: is, is not, should be associated with, should not be associated with, what is a {role} in regards to {technology}?"
+    prompt_template = "In the form: is, is not, should be associated with, should not be associated with, what is {role} in regards to {technology}?"
     prompt = prompt_template.format(role=role, technology=technology)
 
     # Generate an embedding for the prompt and retrieve the most relevant document
