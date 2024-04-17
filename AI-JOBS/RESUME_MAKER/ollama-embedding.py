@@ -1,8 +1,18 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, Menu
 import os
+import sqlite3
 import ollama
 import chromadb
+
+# Create SQLite database connection
+conn = sqlite3.connect('responses.db')
+c = conn.cursor()
+
+# Create responses table if not exists
+c.execute('''CREATE TABLE IF NOT EXISTS responses
+             (role TEXT, technology TEXT, response TEXT)''')
+conn.commit()
 
 def upload_document():
     file_path = filedialog.askopenfilename()
@@ -56,6 +66,11 @@ def generate_response():
     
     response_text.delete(1.0, tk.END)  # Clear previous response
     response_text.insert(tk.END, output['response'])
+    
+    # Save response to SQLite database
+    c.execute("INSERT INTO responses (role, technology, response) VALUES (?, ?, ?)",
+              (role, technology, output['response']))
+    conn.commit()
 
 def copy_text():
     root.clipboard_clear()
@@ -135,3 +150,6 @@ save_button.grid(row=6, column=0, columnspan=2, padx=5, pady=5)
 
 # Run the main event loop
 root.mainloop()
+
+# Close SQLite connection
+conn.close()
