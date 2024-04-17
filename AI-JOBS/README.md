@@ -8,3 +8,8 @@
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+sqlite3 links.db "SELECT notes FROM links;" > allnotes.txt
+
+grep -ow '[A-Z][a-zA-Z]\{3,\}' allnotes.txt > allnotes-words.txt
